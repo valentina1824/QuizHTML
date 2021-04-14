@@ -1,0 +1,25 @@
+.circulo{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border-radius: 150%;
+    display:block;
+    margin: auto;
+}
+.cuadrado{
+    background-color: greenyellow;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+.triangulo{
+    width: 0px;
+    height: 0px;
+    border-top: 130px solid hotpink;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    display: block;
+    margin:auto;
+}
+
